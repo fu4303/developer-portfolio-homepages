@@ -16,4 +16,6 @@
 
 [Max Stoiber](https://mxstbr.com)
 
+[Matt Waler](https://mattwaler.com)
+
 [Cassidy Williams](https://cassidoo.co)
