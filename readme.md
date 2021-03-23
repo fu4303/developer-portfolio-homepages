@@ -1,10 +1,19 @@
 ### Developers
 
-[Telmo Goncalves](https://telmo.is)
+[Dan Abramov](https://overreacted.io)
 
 [Josh W Comeau](https://joshwcomeau.com)
 
-[Lee Rob](https://leerob.io)
-
 [Sarah Drasner](https://sarah.dev)
 
+[Timo Lins](https://timo.sh)
+
+[Tobias Lins](https://tobi.sh)
+
+[Telmo Goncalves](https://telmo.is)
+
+[Lee Rob](https://leerob.io)
+
+[Max Stoiber](https://mxstbr.com)
+
+[Cassidy Williams](https://cassidoo.co)
