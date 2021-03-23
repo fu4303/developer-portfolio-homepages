@@ -6,11 +6,13 @@
 
 [Sarah Drasner](https://sarah.dev)
 
+[Telmo Goncalves](https://telmo.is)
+
+[Anthony Fu](https://antfu.me)
+
 [Timo Lins](https://timo.sh)
 
 [Tobias Lins](https://tobi.sh)
-
-[Telmo Goncalves](https://telmo.is)
 
 [Lee Rob](https://leerob.io)
 
