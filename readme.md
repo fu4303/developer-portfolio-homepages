@@ -4,6 +4,8 @@
 
 [Dan Abramov](https://overreacted.io)
 
+[Anup Aglawe](https://www.anup.tech)
+
 [Josh W Comeau](https://joshwcomeau.com)
 
 [Michael Currin](https://michaelcurrin.github.io)
