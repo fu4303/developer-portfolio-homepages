@@ -20,4 +20,6 @@
 
 [Matt Waler](https://mattwaler.com)
 
+[Amelia Wattenberger](https://wattenberger.com)
+
 [Cassidy Williams](https://cassidoo.co)
