@@ -16,6 +16,8 @@
 
 [Danijela Fusko](https://danijela.surge.sh)
 
+[Nirmalya Ghosh](https://nirmalyaghosh.com)
+
 [Telmo Goncalves](https://telmo.is)
 
 [Matthias Kretschmann](https://matthiaskretschmann.com)
@@ -24,7 +26,11 @@
 
 [Tobias Lins](https://tobi.sh)
 
+[Alec Lomas](https://lowmess.com)
+
 [Lee Rob](https://leerob.io)
+
+[Jaagrav Seal](https://xjaagrav.netlify.app)
 
 [Max Stoiber](https://mxstbr.com)
 
