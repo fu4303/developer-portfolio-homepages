@@ -26,6 +26,8 @@
 
 [Matt Waler](https://mattwaler.com)
 
+[Rutik Wankhade](https://rutikwankhade.dev)
+
 [Amelia Wattenberger](https://wattenberger.com)
 
 [Cassidy Williams](https://cassidoo.co)
