@@ -1,8 +1,12 @@
 ### Developers
 
+[LekoArts](https://www.lekoarts.de)
+
 [Dan Abramov](https://overreacted.io)
 
 [Josh W Comeau](https://joshwcomeau.com)
+
+[Michael Currin](https://michaelcurrin.github.io)
 
 [Sarah Drasner](https://sarah.dev)
 
