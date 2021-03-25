@@ -10,11 +10,13 @@
 
 [Sarah Drasner](https://sarah.dev)
 
-[Telmo Goncalves](https://telmo.is)
-
 [Anthony Fu](https://antfu.me)
 
 [Danijela Fusko](https://danijela.surge.sh)
+
+[Telmo Goncalves](https://telmo.is)
+
+[Matthias Kretschmann](https://matthiaskretschmann.com)
 
 [Timo Lins](https://timo.sh)
 
