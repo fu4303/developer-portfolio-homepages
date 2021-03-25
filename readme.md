@@ -10,6 +10,8 @@
 
 [Anthony Fu](https://antfu.me)
 
+[Danijela Fusko](https://danijela.surge.sh)
+
 [Timo Lins](https://timo.sh)
 
 [Tobias Lins](https://tobi.sh)
