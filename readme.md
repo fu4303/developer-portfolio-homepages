@@ -32,6 +32,8 @@
 
 [Estevan Maito](https://estevanmaito.me)
 
+[Savio Martin](https://savio.xyz)
+
 [Lee Rob](https://leerob.io)
 
 [Jaagrav Seal](https://xjaagrav.netlify.app)
