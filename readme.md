@@ -24,6 +24,8 @@
 
 [Matthias Kretschmann](https://matthiaskretschmann.com)
 
+[Timothy Lin](https://www.timlrx.com)
+
 [Timo Lins](https://timo.sh)
 
 [Tobias Lins](https://tobi.sh)
