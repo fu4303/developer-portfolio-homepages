@@ -26,6 +26,8 @@
 
 [Telmo Goncalves](https://telmo.is)
 
+[Laura C Harvey](https://www.lauracharvey.dev)
+
 [Matthias Kretschmann](https://matthiaskretschmann.com)
 
 [Stacy Kutyepov](https://codemyjourney.netlify.app)
