@@ -34,6 +34,8 @@
 
 [Jaagrav Seal](https://xjaagrav.netlify.app)
 
+[Surjith S M](https://surjithctly.in)
+
 [Max Stoiber](https://mxstbr.com)
 
 [Matt Waler](https://mattwaler.com)
