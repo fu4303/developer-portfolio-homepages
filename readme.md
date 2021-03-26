@@ -40,6 +40,8 @@
 
 [Savio Martin](https://savio.xyz)
 
+[Shubham Merva](https://shubhamverma.dev)
+
 [Lee Rob](https://leerob.io)
 
 [Jaagrav Seal](https://xjaagrav.netlify.app)
