@@ -18,6 +18,8 @@
 
 [Sarah Drasner](https://sarah.dev)
 
+[Cassie Evans](https://www.cassie.codes)
+
 [Anthony Fu](https://antfu.me)
 
 [Danijela Fusko](https://danijela.surge.sh)
