@@ -8,6 +8,8 @@
 
 [Anup Aglawe](https://www.anup.tech)
 
+[Will Boyd](https://codersblock.com)
+
 [Josh W Comeau](https://joshwcomeau.com)
 
 [Michael Currin](https://michaelcurrin.github.io)
