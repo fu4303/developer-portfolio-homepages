@@ -34,6 +34,8 @@
 
 [Alec Lomas](https://lowmess.com)
 
+[Brian Lovin](https://brianlovin.com)
+
 [Estevan Maito](https://estevanmaito.me)
 
 [Savio Martin](https://savio.xyz)
