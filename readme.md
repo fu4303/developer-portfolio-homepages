@@ -16,6 +16,8 @@
 
 [Michael Currin](https://michaelcurrin.github.io)
 
+[Monica Dinculescu](https://meowni.ca)
+
 [Sarah Drasner](https://sarah.dev)
 
 [Cassie Evans](https://www.cassie.codes)
