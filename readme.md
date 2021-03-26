@@ -52,6 +52,8 @@
 
 [Can Ural](https://can-ural.com)
 
+[Chris Vouga](https://chrisvouga.dev)
+
 [Matt Waler](https://mattwaler.com)
 
 [Rutik Wankhade](https://rutikwankhade.dev)
