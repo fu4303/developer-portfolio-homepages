@@ -40,6 +40,8 @@
 
 [Max Stoiber](https://mxstbr.com)
 
+[Can Ural](https://can-ural.com)
+
 [Matt Waler](https://mattwaler.com)
 
 [Rutik Wankhade](https://rutikwankhade.dev)
