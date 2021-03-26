@@ -24,6 +24,8 @@
 
 [Matthias Kretschmann](https://matthiaskretschmann.com)
 
+[Stacy Kutyepov](https://codemyjourney.netlify.app)
+
 [Timothy Lin](https://www.timlrx.com)
 
 [Timo Lins](https://timo.sh)
