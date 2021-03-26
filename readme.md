@@ -4,6 +4,8 @@
 
 [Dan Abramov](https://overreacted.io)
 
+[Yinka Adedire](https://yinkaadedire.netlify.app)
+
 [Anup Aglawe](https://www.anup.tech)
 
 [Josh W Comeau](https://joshwcomeau.com)
