@@ -28,6 +28,8 @@
 
 [Laura C Harvey](https://www.lauracharvey.dev)
 
+[Christopher Kirk-Nielson](https://chriskirknielsen.com)
+
 [Matthias Kretschmann](https://matthiaskretschmann.com)
 
 [Stacy Kutyepov](https://codemyjourney.netlify.app)
