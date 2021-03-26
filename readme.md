@@ -42,6 +42,8 @@
 
 [Shubham Merva](https://shubhamverma.dev)
 
+[Theelipan Prabakar](https://www.theelipan.com)
+
 [Lee Rob](https://leerob.io)
 
 [Jaagrav Seal](https://xjaagrav.netlify.app)
