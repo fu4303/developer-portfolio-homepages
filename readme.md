@@ -30,6 +30,8 @@
 
 [Alec Lomas](https://lowmess.com)
 
+[Estevan Maito](https://estevanmaito.me)
+
 [Lee Rob](https://leerob.io)
 
 [Jaagrav Seal](https://xjaagrav.netlify.app)
