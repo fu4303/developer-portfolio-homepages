@@ -42,6 +42,8 @@
 
 [Phil Hawksworth](https://www.hawksworx.com)
 
+[Jacob Herper](https://herper.io)
+
 [Christopher Kirk-Nielson](https://chriskirknielsen.com)
 
 [Matthias Kretschmann](https://matthiaskretschmann.com)
