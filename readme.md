@@ -16,6 +16,8 @@
 
 [Michael Currin](https://michaelcurrin.github.io)
 
+[Dennis Dang](https://dangdennis.com)
+
 [Monica Dinculescu](https://meowni.ca)
 
 [Kent C Dodds](https://kentcdodds.com)
