@@ -22,6 +22,8 @@
 
 [Sarah Drasner](https://sarah.dev)
 
+[Gianmarco Ebeling](https://ebeling.dev)
+
 [Cassie Evans](https://www.cassie.codes)
 
 [Anthony Fu](https://antfu.me)
