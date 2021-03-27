@@ -32,6 +32,8 @@
 
 [Danijela Fusko](https://danijela.surge.sh)
 
+[Ismail Ghallou](https://smakosh.com)
+
 [Nirmalya Ghosh](https://nirmalyaghosh.com)
 
 [Telmo Goncalves](https://telmo.is)
