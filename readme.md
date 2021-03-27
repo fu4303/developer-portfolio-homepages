@@ -18,6 +18,8 @@
 
 [Monica Dinculescu](https://meowni.ca)
 
+[Kent C Dodds](https://kentcdodds.com)
+
 [Sarah Drasner](https://sarah.dev)
 
 [Cassie Evans](https://www.cassie.codes)
