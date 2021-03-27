@@ -20,6 +20,8 @@
 
 [Kent C Dodds](https://kentcdodds.com)
 
+[Victoria Drake](https://victoria.dev)
+
 [Sarah Drasner](https://sarah.dev)
 
 [Gianmarco Ebeling](https://ebeling.dev)
