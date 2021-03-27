@@ -32,6 +32,8 @@
 
 [Laura C Harvey](https://www.lauracharvey.dev)
 
+[Phil Hawksworth](https://www.hawksworx.com)
+
 [Christopher Kirk-Nielson](https://chriskirknielsen.com)
 
 [Matthias Kretschmann](https://matthiaskretschmann.com)
