@@ -1,4 +1,16 @@
-### Developers
+# Developers
+
+
+## Top 5 for Information
+
+1. [Josh W Comeau](https://joshwcomeau.com)
+2. [Lee Robinson](https://leerob.io)
+3. [Kent C Dodds](https://kentcdodds.com)
+
+
+## Top 5 for Creativity
+
+
 
 [LekoArts](https://www.lekoarts.de)
 
