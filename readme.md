@@ -12,11 +12,15 @@
 
 [Anup Aglawe](https://www.anup.tech)
 
+[Bolaji Ayodeji](https://bolajiayodeji.com)
+
 [Max Bock](https://mxb.dev)
 
 [Will Boyd](https://codersblock.com)
 
 [Josh W Comeau](https://joshwcomeau.com)
+
+[Carlos Cuesta](https://carloscuesta.me)
 
 [Michael Currin](https://michaelcurrin.github.io)
 
@@ -45,6 +49,8 @@
 [Nirmalya Ghosh](https://nirmalyaghosh.com)
 
 [Telmo Goncalves](https://telmo.is)
+
+[Neha Gupta](https://nehagupta.netlify.app)
 
 [Laura C Harvey](https://www.lauracharvey.dev)
 
