@@ -8,6 +8,8 @@
 
 [Gabriel Adorf](https://gabrieladorf.com)
 
+[Muhammad Ahmad](https://mahmad.me/#/)
+
 [Anup Aglawe](https://www.anup.tech)
 
 [Max Bock](https://mxb.dev)
