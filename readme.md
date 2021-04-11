@@ -70,7 +70,7 @@
 
 [Theelipan Prabakar](https://www.theelipan.com)
 
-[Lee Rob](https://leerob.io)
+[Lee Robinson](https://leerob.io)
 
 [Jaagrav Seal](https://xjaagrav.netlify.app)
 
