@@ -6,6 +6,8 @@
 
 [Yinka Adedire](https://yinkaadedire.netlify.app)
 
+[Gabriel Adorf](https://gabrieladorf.com)
+
 [Anup Aglawe](https://www.anup.tech)
 
 [Max Bock](https://mxb.dev)
