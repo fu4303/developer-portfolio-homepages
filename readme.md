@@ -30,6 +30,8 @@
 
 [Cassie Evans](https://www.cassie.codes)
 
+[Sarah Fossheim](https://fossheim.io)
+
 [Anthony Fu](https://antfu.me)
 
 [Danijela Fusko](https://danijela.surge.sh)
