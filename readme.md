@@ -32,6 +32,7 @@
 3. [Gianmarco Ebeling](https://ebeling.dev)
 4. [Laura C Harvey](https://www.lauracharvey.dev)
 5. [Christopher Kirk-Nielson](https://chriskirknielsen.com)
+6. [Bruno Simon](https://bruno-simon.com)
 ---
 
 ## Top 5 GitHub Users
@@ -131,6 +132,8 @@
 [Lee Robinson](https://leerob.io)
 
 [Jaagrav Seal](https://xjaagrav.netlify.app)
+
+[Bruno Simon](https://bruno-simon.com)
 
 [Surjith S M](https://surjithctly.in)
 
