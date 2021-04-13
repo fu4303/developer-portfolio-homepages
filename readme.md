@@ -1,21 +1,31 @@
 # Developers
 
 
-## Top 5 for Information
+## Top 10 for Information
 
 1. [Josh W Comeau](https://joshwcomeau.com)
 2. [Lee Robinson](https://leerob.io)
 3. [Kent C Dodds](https://kentcdodds.com)
+4. [Max Bock](https://mxb.dev)
+5. [Will Boyd](https://codersblock.com)
+6. [Victoria Drake](https://victoria.dev)
+7. [Sarah Fossheim](https://fossheim.io)
 ---
 
 ## Top 5 for Projects, Ideas
 
 1. [LekoArts](https://www.lekoarts.de)
+2. [Michael Currin](https://michaelcurrin.github.io)
 ---
 
 ## Top 5 for Creativity
 
+1. [Sarah Drasner](https://sarah.dev)
+2. [Cassie Evans](https://www.cassie.codes)
+3. [Gianmarco Ebeling](https://ebeling.dev)
 ---
+
+## Top 5 GitHub Users
 
 
 [LekoArts](https://www.lekoarts.de)
