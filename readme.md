@@ -10,12 +10,19 @@
 5. [Will Boyd](https://codersblock.com)
 6. [Victoria Drake](https://victoria.dev)
 7. [Sarah Fossheim](https://fossheim.io)
+8. [Nirmalya Ghosh](https://nirmalyaghosh.com)
+9. [Telmo Goncalves](https://telmo.is)
+10. [Brian Lovin](https://brianlovin.com)
+11. [Estevan Maito](https://estevanmaito.me)
 ---
 
 ## Top 5 for Projects, Ideas
 
 1. [LekoArts](https://www.lekoarts.de)
 2. [Michael Currin](https://michaelcurrin.github.io)
+3. [Alec Lomas](https://lowmess.com)
+4. [Savio Martin](https://savio.xyz)
+5. [Rutik Wankhade](https://rutikwankhade.dev)
 ---
 
 ## Top 5 for Creativity
@@ -23,9 +30,18 @@
 1. [Sarah Drasner](https://sarah.dev)
 2. [Cassie Evans](https://www.cassie.codes)
 3. [Gianmarco Ebeling](https://ebeling.dev)
+4. [Laura C Harvey](https://www.lauracharvey.dev)
+5. [Christopher Kirk-Nielson](https://chriskirknielsen.com)
 ---
 
 ## Top 5 GitHub Users
+
+1. [Bolaji Ayodeji](https://bolajiayodeji.com) 
+2. [Matthias Kretschmann](https://matthiaskretschmann.com)
+3. [Thomas Park](https://thomaspark.co)
+4. [Max Stoiber](https://mxstbr.com)
+5. [Cassidy Williams](https://cassidoo.co)
+---
 
 
 [LekoArts](https://www.lekoarts.de)
