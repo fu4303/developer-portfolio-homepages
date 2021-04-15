@@ -5,16 +5,17 @@
 
 1. [Josh W Comeau](https://joshwcomeau.com)
 2. [Nicolas Hoizey](https://nicolas-hoizey.com)
-3. [Lee Robinson](https://leerob.io)
-4. [Kent C Dodds](https://kentcdodds.com)
-5. [Max Bock](https://mxb.dev)
-6. [Will Boyd](https://codersblock.com)
-7. [Victoria Drake](https://victoria.dev)
-8. [Sarah Fossheim](https://fossheim.io)
-9. [Nirmalya Ghosh](https://nirmalyaghosh.com)
-10. [Telmo Goncalves](https://telmo.is)
-11. [Brian Lovin](https://brianlovin.com)
-12. [Estevan Maito](https://estevanmaito.me)
+3. [Tania Rascia](https://www.taniarascia.com)
+4. [Lee Robinson](https://leerob.io)
+5. [Kent C Dodds](https://kentcdodds.com)
+6. [Max Bock](https://mxb.dev)
+7. [Will Boyd](https://codersblock.com)
+8. [Victoria Drake](https://victoria.dev)
+9. [Sarah Fossheim](https://fossheim.io)
+10. [Nirmalya Ghosh](https://nirmalyaghosh.com)
+11. [Telmo Goncalves](https://telmo.is)
+12. [Brian Lovin](https://brianlovin.com)
+13. [Estevan Maito](https://estevanmaito.me)
 ---
 
 ## Top 5 for Projects, Ideas
@@ -131,6 +132,8 @@
 [Thomas Park](https://thomaspark.co)
 
 [Theelipan Prabakar](https://www.theelipan.com)
+
+[Tania Rascia](https://www.taniarascia.com)
 
 [Lee Robinson](https://leerob.io)
 
