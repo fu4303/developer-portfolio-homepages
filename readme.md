@@ -67,6 +67,10 @@
 
 [Taylor Bryant](https://taylorbryant.dev)
 
+[Guillaume Chau](https://guillaume-chau.info)
+
+[Brittany Chiang](https://brittanychiang.com)
+
 [Josh W Comeau](https://joshwcomeau.com)
 
 [Carlos Cuesta](https://carloscuesta.me)
@@ -79,9 +83,13 @@
 
 [Kent C Dodds](https://kentcdodds.com)
 
+[Tanner Dolby](https://tannerdolby.com)
+
 [Victoria Drake](https://victoria.dev)
 
 [Sarah Drasner](https://sarah.dev)
+
+[Maribel Duran](https://www.maribelduran.com)
 
 [Gianmarco Ebeling](https://ebeling.dev)
 
@@ -100,6 +108,10 @@
 [Telmo Goncalves](https://telmo.is)
 
 [Neha Gupta](https://nehagupta.netlify.app)
+
+[Faiz Hameed](https://dhaval1403.github.io/React-Portfolio-Template/)
+
+[Kelly Harrop](https://kellyharrop.com)
 
 [Laura C Harvey](https://www.lauracharvey.dev)
 
@@ -129,6 +141,8 @@
 
 [Savio Martin](https://savio.xyz)
 
+[Amit Merchant](https://www.amitmerchant.com)
+
 [Shubham Merva](https://shubhamverma.dev)
 
 [Thomas Park](https://thomaspark.co)
@@ -141,13 +155,21 @@
 
 [Jaagrav Seal](https://xjaagrav.netlify.app)
 
+[Artem Sheludko](http://artemsheludko.com//)
+
 [Bruno Simon](https://bruno-simon.com)
 
+[Karan Pratap Singh](https://karanpratapsingh.com)
+
 [Surjith S M](https://surjithctly.in)
+
+[John Smilga](https://www.johnsmilga.com)
 
 [Max Stoiber](https://mxstbr.com)
 
 [Can Ural](https://can-ural.com)
+
+[Chetan Verma](https://www.chetanverma.com)
 
 [Chris Vouga](https://chrisvouga.dev)
 
@@ -156,6 +178,8 @@
 [Rutik Wankhade](https://rutikwankhade.dev)
 
 [Amelia Wattenberger](https://wattenberger.com)
+
+[Ken Wheeler](http://kenwheeler.github.io)
 
 [Cassidy Williams](https://cassidoo.co)
 
