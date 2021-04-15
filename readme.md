@@ -5,7 +5,7 @@
 
 1. [Josh W Comeau](https://joshwcomeau.com)
 2. [Nicolas Hoizey](https://nicolas-hoizey.com)
-3. [Tania Rascia](https://www.taniarascia.com)
+3. [Tania Rascia](https://www.taniarascia.com) 💯👍
 4. [Lee Robinson](https://leerob.io)
 5. [Kent C Dodds](https://kentcdodds.com)
 6. [Max Bock](https://mxb.dev)
