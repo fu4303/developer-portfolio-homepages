@@ -3,7 +3,7 @@
 
 ## Top 10 for Information
 
-1. [Josh W Comeau](https://joshwcomeau.com)
+1. [Josh W Comeau](https://joshwcomeau.com)  
 2. [Nicolas Hoizey](https://nicolas-hoizey.com)💯  👍  📝
 3. [Tania Rascia](https://www.taniarascia.com) 💯  👍  📝
 4. [Lee Robinson](https://leerob.io)
