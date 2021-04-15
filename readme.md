@@ -67,6 +67,8 @@
 
 [Taylor Bryant](https://taylorbryant.dev)
 
+[Dusty Candland](https://candland.net)
+
 [Guillaume Chau](https://guillaume-chau.info)
 
 [Brittany Chiang](https://brittanychiang.com)
