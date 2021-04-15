@@ -65,6 +65,8 @@
 
 [Will Boyd](https://codersblock.com)
 
+[Taylor Bryant](https://taylorbryant.dev)
+
 [Josh W Comeau](https://joshwcomeau.com)
 
 [Carlos Cuesta](https://carloscuesta.me)
