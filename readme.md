@@ -4,16 +4,17 @@
 ## Top 10 for Information
 
 1. [Josh W Comeau](https://joshwcomeau.com)
-2. [Lee Robinson](https://leerob.io)
-3. [Kent C Dodds](https://kentcdodds.com)
-4. [Max Bock](https://mxb.dev)
-5. [Will Boyd](https://codersblock.com)
-6. [Victoria Drake](https://victoria.dev)
-7. [Sarah Fossheim](https://fossheim.io)
-8. [Nirmalya Ghosh](https://nirmalyaghosh.com)
-9. [Telmo Goncalves](https://telmo.is)
-10. [Brian Lovin](https://brianlovin.com)
-11. [Estevan Maito](https://estevanmaito.me)
+2. [Nicolas Hoizey](https://nicolas-hoizey.com)
+3. [Lee Robinson](https://leerob.io)
+4. [Kent C Dodds](https://kentcdodds.com)
+5. [Max Bock](https://mxb.dev)
+6. [Will Boyd](https://codersblock.com)
+7. [Victoria Drake](https://victoria.dev)
+8. [Sarah Fossheim](https://fossheim.io)
+9. [Nirmalya Ghosh](https://nirmalyaghosh.com)
+10. [Telmo Goncalves](https://telmo.is)
+11. [Brian Lovin](https://brianlovin.com)
+12. [Estevan Maito](https://estevanmaito.me)
 ---
 
 ## Top 5 for Projects, Ideas
@@ -102,6 +103,8 @@
 [Phil Hawksworth](https://www.hawksworx.com)
 
 [Jacob Herper](https://herper.io)
+
+[Nicolas Hoizey](https://nicolas-hoizey.com)
 
 [Christopher Kirk-Nielson](https://chriskirknielsen.com)
 
