@@ -33,8 +33,9 @@
 2. [Cassie Evans](https://www.cassie.codes)
 3. [Gianmarco Ebeling](https://ebeling.dev)
 4. [Laura C Harvey](https://www.lauracharvey.dev)
-5. [Christopher Kirk-Nielson](https://chriskirknielsen.com)
-6. [Bruno Simon](https://bruno-simon.com)
+5. [Robby Leonardi](http://www.rleonardi.com/interactive-resume/)
+6. [Christopher Kirk-Nielson](https://chriskirknielsen.com)
+7. [Bruno Simon](https://bruno-simon.com)
 ---
 
 ## Top 5 GitHub Users
@@ -128,6 +129,8 @@
 [Matthias Kretschmann](https://matthiaskretschmann.com)
 
 [Stacy Kutyepov](https://codemyjourney.netlify.app)
+
+[Robby Leonardi](http://www.rleonardi.com/interactive-resume/)
 
 [Timothy Lin](https://www.timlrx.com)
 
